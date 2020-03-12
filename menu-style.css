@@ -1,0 +1,13 @@
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.colum{
+
+}
+
+.ham{
+    width: 50%;
+    height: 50%;
+}
